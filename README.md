@@ -49,7 +49,7 @@ Below is the draft agenda for this two-day event. (This may be revised further)
 | 16:00 \- 16:30 | Awards & Closing Ceremony | Theatre |
 | 16.30 \- 17:00 | Further networking  | Atrium |
 
-## 1. 🎯 Challenge information
+## 🎯 Challenge information
 
 Through feedback you have shared and wider engagement with stakeholders we have identified five key challenge areas within the planning system which will form the focus of our two-day hackathon. We're seeking innovative solutions to address these complex issues.
 
@@ -59,13 +59,13 @@ To help us allocate you to an area that matches your interests and expertise, pl
 
 Please complete the form before the event. If you haven't managed to do this in advance we will allocate you into a multi-disciplinary team. 
 
-## 2. 📝 Registration and teams
+## 📝 Registration and teams
 
 Please arrive between 9am and 10am on 30 April to register and to get into teams for the hackathon.
 
 We're expecting to have 10-15 teams of between 4-6 members each. 
 
-## 3. 🏆 Judging criteria 
+## 🏆 Judging criteria 
 
 The projects developed during the hackathon will be evaluated by the judges based on:
 
@@ -73,7 +73,7 @@ The projects developed during the hackathon will be evaluated by the judges base
 * **Innovation:** Originality, creativity and technical viability of the solution.  
 * **Presentation:** Clarity, persuasiveness, and professionalism of the presentation.
 
-## 4. 🧩 Logistics
+## 🧩 Logistics
 
 Set out below is some useful logistical information. 
 
@@ -123,7 +123,7 @@ Please be aware that there are local elections on 1 May. Government departments 
 
 If you have any concerns during the event please speak with the organisers immediately.
 
-## 5. 💻 Technical information and support
+## 💻 Technical information and support
 
 **Mentor availability and expertise:**
 
