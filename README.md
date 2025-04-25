@@ -129,7 +129,7 @@ If you have any concerns during the event please speak with the organisers immed
 
 🧠 Planning experts and specialists from the Incubator for Artificial Intelligence (i.AI), will be available as mentors during the hackathon. More information will be provided at the event about who is available. 
 
-## 6. ⏭️ What happens next?
+## ⏭️ What happens next?
 
 **Feedback:**
 
