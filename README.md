@@ -1,17 +1,17 @@
-# Local Government Innovation Hackathon
+# 🏙️ Local Government Innovation Hackathon
 
 ![header image](./images/local-gov-hack.png)
 
-**Dates: 30 April and 1 May (two day event)**
+**Dates: 📅 30 April and 1 May (two day event)**
 
-**Location: Nexus, University of Leeds, Discovery Wy, Woodhouse, Leeds, LS2 3AA**
+**Location: 🏢 Nexus, University of Leeds, Discovery Wy, Woodhouse, Leeds, LS2 3AA**
 
 **Contact:**
 
 ---
 
-## Welcome!
-Welcome to the first Local Government Innovation Hackathon. We’re excited to have you join us for a 48-hour collaboration and initiative that supports a ‘[blueprint for modern digital government](https://www.gov.uk/government/publications/a-blueprint-for-modern-digital-government)’.
+## 👋 Welcome!
+Welcome to the first Local Government Innovation Hackathon. We're excited to have you join us for a 48-hour collaboration and initiative that supports a '[blueprint for modern digital government](https://www.gov.uk/government/publications/a-blueprint-for-modern-digital-government)'.
 
 This Hackathon is being organised by [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) (GDS) and the [Incubator for AI](https://ai.gov.uk/) (i.AI), in partnership with the [Ministry of Housing, Communities and Local Government Digital Planning programme](https://www.localdigital.gov.uk/digital-planning/) and [Open Digital Planning](https://opendigitalplanning.org/).
 
@@ -19,7 +19,7 @@ Planning reform is key to economic growth and digital transformation can make it
 
 This document contains everything you need to know to help you make the most of your hackathon experience. 
 
-## Agenda
+## 📋 Agenda
 
 Below is the draft agenda for this two-day event. (This may be revised further)
 
@@ -49,7 +49,7 @@ Below is the draft agenda for this two-day event. (This may be revised further)
 | 16:00 \- 16:30 | Awards & Closing Ceremony | Theatre |
 | 16.30 \- 17:00 | Further networking  | Atrium |
 
-## 1. Challenge information
+## 1. 🎯 Challenge information
 
 Through feedback you have shared and wider engagement with stakeholders we have identified five key challenge areas within the planning system which will form the focus of our two-day hackathon. We're seeking innovative solutions to address these complex issues.
 
@@ -57,15 +57,15 @@ During the hackathon, you'll work in multi-disciplinary teams focused on a speci
 
 To help us allocate you to an area that matches your interests and expertise, please [take a look at the problem statements and complete this form, by 25 April,](https://forms.office.com/e/Dr0XbtKtqm) and rank the problem statements you'd most like to work on, in order of preference.  While we'll do our best to assign you to your preferred area, please note that we also need to create balanced teams across all the challenge areas. 
 
-Please complete the form before the event. If you haven’t managed to do this in advance we will allocate you into a multi-disciplinary team. 
+Please complete the form before the event. If you haven't managed to do this in advance we will allocate you into a multi-disciplinary team. 
 
-## 2. Registration and teams
+## 2. 📝 Registration and teams
 
 Please arrive between 9am and 10am on 30 April to register and to get into teams for the hackathon.
 
-We’re expecting to have 10-15 teams of between 4-6 members each. 
+We're expecting to have 10-15 teams of between 4-6 members each. 
 
-## 3. Judging criteria 
+## 3. 🏆 Judging criteria 
 
 The projects developed during the hackathon will be evaluated by the judges based on:
 
@@ -73,27 +73,27 @@ The projects developed during the hackathon will be evaluated by the judges base
 * **Innovation:** Originality, creativity and technical viability of the solution.  
 * **Presentation:** Clarity, persuasiveness, and professionalism of the presentation.
 
-## 4. Logistics
+## 4. 🧩 Logistics
 
 Set out below is some useful logistical information. 
 
 What to bring: 
 
-* Please bring your own laptop and charger  
-* Any stationary you’ll need  
-* Water bottle (recommended) 
+* 💻 Please bring your own laptop and charger  
+* 📏 Any stationary you'll need  
+* 🍶 Water bottle (recommended) 
 
 Food and refreshments: 
 
-* Lunch provided both days  
-* Breakfast on day two  
-* Tea, coffee and water available throughout
+* 🥪 Lunch provided both days  
+* 🍳 Breakfast on day two  
+* ☕ Tea, coffee and water available throughout
 
 Dietary requirements: If you haven't informed us of your dietary needs, please email [local-government@digital.cabinet-office.gov.uk](mailto:local-government@digital.cabinet-office.gov.uk) as soon as possible.
 
 **Accommodation:**
 
-Please arrange your own overnight accommodation.
+🏨 Please arrange your own overnight accommodation.
 
 **Venue accessibility and transport information:** 
 
@@ -107,42 +107,42 @@ Please be aware that there are local elections on 1 May. Government departments 
 
 **Participation guidelines:**
 
-We want everyone to be able to participate and thrive in the hackathon. Whether you're a seasoned professional or a first-time participant, everyone is encouraged to bring their ideas to the table and contribute to the collective success of the hackathon. Here are some guidelines to follow to ensure everyone is treated properly.
+🤝 We want everyone to be able to participate and thrive in the hackathon. Whether you're a seasoned professional or a first-time participant, everyone is encouraged to bring their ideas to the table and contribute to the collective success of the hackathon. Here are some guidelines to follow to ensure everyone is treated properly.
 
 **We encourage everyone to:**
 
-* Treat all participants with respect and kindness  
-* Communicate openly and constructively  
-* Value diverse perspectives and ideas  
-* Support equal participation for all
+* 👂 Treat all participants with respect and kindness  
+* 💬 Communicate openly and constructively  
+* 🌈 Value diverse perspectives and ideas  
+* 🤲 Support equal participation for all
 
 **Please avoid:**
 
-* Discriminatory behaviour or language  
-* Actions that prevent others from fully participating
+* ❌ Discriminatory behaviour or language  
+* ⛔ Actions that prevent others from fully participating
 
 If you have any concerns during the event please speak with the organisers immediately.
 
-## 5. Technical information and support
+## 5. 💻 Technical information and support
 
 **Mentor availability and expertise:**
 
-Planning experts and specialists from the Incubator for Artificial Intelligence (i.AI), will be available as mentors during the hackathon. More information will be provided at the event about who is available. 
+🧠 Planning experts and specialists from the Incubator for Artificial Intelligence (i.AI), will be available as mentors during the hackathon. More information will be provided at the event about who is available. 
 
-## 6. What happens next?
+## 6. ⏭️ What happens next?
 
 **Feedback:**
 
-We welcome your feedback at the conclusion of the hackathon to help improve future events. 
+📣 We welcome your feedback at the conclusion of the hackathon to help improve future events. 
 
 **Communications about the hackathon:**
 
-We’ll be sharing highlights and outcomes from the hackathon on social media from Monday 5 May \- following the local elections pre-election period.
+📱 We'll be sharing highlights and outcomes from the hackathon on social media from Monday 5 May \- following the local elections pre-election period.
 
 **Future opportunities:**
 
-Watch out for announcements about upcoming local government hackathons. 
+🔮 Watch out for announcements about upcoming local government hackathons. 
 
-If you opted in, when completing the skills survey for the hackathon, we’ll keep you informed about future events. 
+If you opted in, when completing the skills survey for the hackathon, we'll keep you informed about future events. 
 
  

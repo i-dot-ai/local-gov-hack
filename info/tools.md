@@ -1,6 +1,6 @@
-# Local Gov Hack: Tools
+# 🛠️ Local Gov Hack: Tools
 
-## Large Language Model Access
+## 🤖 Large Language Model Access
 
 | Tool | Links | Notes |
 |------|-------|-------|
@@ -8,7 +8,7 @@
 | **Azure Endpoint to access Open AI o3** | [Link to Azure endpoint](https://example.com/azure) | |
 | **$20 of Anthropic API credits** | [Link to request $20 of Anthropic API credits](https://example.com/anthropic-credits) | Must be requested by COP 27th April |
 
-## Other Tools
+## 🧰 Other Tools
 
 | Tool | Links | Notes |
 |------|-------|-------|
