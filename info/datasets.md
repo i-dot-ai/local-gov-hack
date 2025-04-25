@@ -1,5 +1,4 @@
-# Local Gov Hack: Tech and Data Resources
-
+# Local Gov Hack: Datasets
 
 ## Available Datasets
 
@@ -44,42 +43,3 @@ There are many useful datasets open and available on the internet for planning. 
 | Resource | Links | Description |
 |----------|-------|-------------|
 | **UK House Price Index** | [https://landregistry.data.gov.uk/app/ukhpi/?lang=en](https://landregistry.data.gov.uk/app/ukhpi/?lang=en) | |
-
----
-## Example Projects & Tools
-
-### Transportation & Infrastructure
-| Tool | Link | Notes |
-|------|------|-------|
-| **Network planning tool** | [https://nptscot.github.io/#/#8/55.953/-3.138](https://nptscot.github.io/#/#8/55.953/-3.138) | |
-| **Active Travel** | [https://cyipt.github.io/acton/articles/the-acton-project.html](https://cyipt.github.io/acton/articles/the-acton-project.html) | |
-| **Active Travel Infrastructure Platform** | [https://github.com/acteng/atip](https://github.com/acteng/atip) | |
-| **A/B Street planning for transportation** | [https://a-b-street.github.io/docs/software/index.html](https://a-b-street.github.io/docs/software/index.html)<br>[https://play.abstreet.org/0.3.49/abstreet.html](https://play.abstreet.org/0.3.49/abstreet.html)<br>[https://www.turing.ac.uk/blog/street-smart-putting-neighbourhood-design-hands-bristol-residents](https://www.turing.ac.uk/blog/street-smart-putting-neighbourhood-design-hands-bristol-residents) | |
-| **15-minute neighbourhood tool (A/B tool)** | [https://a-b-street.github.io/15m/#1/0/0](https://a-b-street.github.io/15m/#1/0/0) | |
-
-### Sustainability
-| Tool | Link | Notes |
-|------|------|-------|
-| **Carbon Place** | [https://www.carbon.place/](https://www.carbon.place/) | |
-
----
-## Technical Tools Available for the Hackathon
-
-| Tool | Links | Notes |
-|------|-------|-------|
-| **AWS account** | [Link to access a free AWS account for the hack](https://example.com/aws-access)<br>[Setup guide, including how to access LLMs through Bedrock](https://example.com/aws-setup) | Should give you access to:<br>• All Amazon Models<br>• Anthropic Claude 3.7 Sonnet<br>• Anthropic Claude 3.5 Haiku<br>• Meta Llama 3.2 11B Vision & Instruct<br>• Mistral 7B Instruct<br>• Stable Diffusion 3 Large |
-| **Azure Endpoint to access Open AI o3** | [Link to Azure endpoint](https://example.com/azure) | |
-| **$20 of Anthropic API credits** | [Link to request $20 of Anthropic API credits](https://example.com/anthropic-credits) | Must be requested by COP 27th April |
-
----
-## Challenge Areas
-
-The hackathon is focused on addressing four key problem statements in planning and infrastructure:
-
-1. **Housing Demand Forecasting**: The planning system struggles to meet the demand for new housing and anticipate future demand. There is an opportunity to develop predictive models that can integrate population trends, migration patterns, and economic indicators to improve forecasting and support data-driven decision-making in housing supply needs.
-
-2. **Planning Process Automation**: The planning system is hindered by manual, time-consuming processes. Planning officers find it difficult to assess applications quickly—especially complex ones. There is an opportunity for automation and AI augmentation to streamline planning application reviews, document processing, and predictive maintenance.
-
-3. **Public Engagement in Planning**: When engaging the public in planning processes, it's often limited and ineffective. There's an opportunity to demonstrate how meaningful engagement with the planning system positively impacts communities and spaces by translating planning language and visions into human terms.
-
-4. **Infrastructure & Housing Balance**: Policy makers across the UK face a complex challenge: how to plan for new homes while balancing infrastructure constraints like water, transport, digital telecoms and energy. Understanding how many homes can be delivered by place before hitting infrastructure limits is a moving target.
