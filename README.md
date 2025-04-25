@@ -1,6 +1,6 @@
 # Local Government Innovation Hackathon
 
-![header image](local-gov-hack.png)
+![header image](./images/local-gov-hack.png)
 
 **Dates: 30 April and 1 May (two day event)**
 
