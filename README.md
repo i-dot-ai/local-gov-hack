@@ -1,6 +1,6 @@
-# Local Government Innovation Hackathon**
+# Local Government Innovation Hackathon
 
-![header image][(local-gov-hack.png)
+![header image](local-gov-hack.png)
 
 **Dates: 30 April and 1 May (two day event)**
 
@@ -8,8 +8,9 @@
 
 **Contact:**
 
-Welcome.
+---
 
+## Welcome!
 Welcome to the first Local Government Innovation Hackathon. We’re excited to have you join us for a 48-hour collaboration and initiative that supports a ‘[blueprint for modern digital government](https://www.gov.uk/government/publications/a-blueprint-for-modern-digital-government)’.
 
 This Hackathon is being organised by [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) (GDS) and the [Incubator for AI](https://ai.gov.uk/) (i.AI), in partnership with the [Ministry of Housing, Communities and Local Government Digital Planning programme](https://www.localdigital.gov.uk/digital-planning/) and [Open Digital Planning](https://opendigitalplanning.org/).
@@ -18,7 +19,7 @@ Planning reform is key to economic growth and digital transformation can make it
 
 This document contains everything you need to know to help you make the most of your hackathon experience. 
 
-## **Agenda**
+## Agenda
 
 Below is the draft agenda for this two-day event. (This may be revised further)
 
@@ -48,7 +49,7 @@ Below is the draft agenda for this two-day event. (This may be revised further)
 | 16:00 \- 16:30 | Awards & Closing Ceremony | Theatre |
 | 16.30 \- 17:00 | Further networking  | Atrium |
 
-## 1. **Challenge information**
+## 1. Challenge information
 
 Through feedback you have shared and wider engagement with stakeholders we have identified five key challenge areas within the planning system which will form the focus of our two-day hackathon. We're seeking innovative solutions to address these complex issues.
 
@@ -58,13 +59,13 @@ To help us allocate you to an area that matches your interests and expertise, pl
 
 Please complete the form before the event. If you haven’t managed to do this in advance we will allocate you into a multi-disciplinary team. 
 
-## 2. **Registration and teams** 
+## 2. Registration and teams
 
 Please arrive between 9am and 10am on 30 April to register and to get into teams for the hackathon.
 
 We’re expecting to have 10-15 teams of between 4-6 members each. 
 
-## 3. **Judging criteria** 
+## 3. Judging criteria 
 
 The projects developed during the hackathon will be evaluated by the judges based on:
 
@@ -72,7 +73,7 @@ The projects developed during the hackathon will be evaluated by the judges base
 * **Innovation:** Originality, creativity and technical viability of the solution.  
 * **Presentation:** Clarity, persuasiveness, and professionalism of the presentation.
 
-## 4. **Logistics**
+## 4. Logistics
 
 Set out below is some useful logistical information. 
 
@@ -122,13 +123,13 @@ We want everyone to be able to participate and thrive in the hackathon. Whether 
 
 If you have any concerns during the event please speak with the organisers immediately.
 
-## 5. **Technical information and support**
+## 5. Technical information and support
 
 **Mentor availability and expertise:**
 
 Planning experts and specialists from the Incubator for Artificial Intelligence (i.AI), will be available as mentors during the hackathon. More information will be provided at the event about who is available. 
 
-## 6. **What happens next?**
+## 6. What happens next?
 
 **Feedback:**
 
