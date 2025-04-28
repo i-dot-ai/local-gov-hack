@@ -1,4 +1,4 @@
-# Accessing LLMs for AWS Bedrock
+# ☁️ Accessing LLMs with AWS Bedrock
 
 As part of the Local Government Hack you have been provided with a free AWS account. This will last for the duration of the hack and will be automatically deleted afterwards. You can use this AWS account to access LLMs and, if you want, other standard AWS features such as SageMaker, S3, Lambda, API Gateway etc for the duration of the hack.
 
