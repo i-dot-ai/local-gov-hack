@@ -14,7 +14,6 @@ There are many open datasets available on the internet for planning and local go
 | **PlanIt** | [Website](https://www.planit.org.uk/)<br>[API Instructions](https://www.planit.org.uk/api/)<br>[Datasets](https://www.planit.org.uk/dictionary/) | Community built dataset of planning applications in the UK, scraped from local authority websites |
 | **Planning London Datahub** | [CSV](https://3.basecamp.com/5954308/join/JskKpUBSD9Uq) | Includes LPA planning information, residential unit statistics, decision data |
 | **National Infrastructure Projects** | [Website](https://national-infrastructure-consenting.planninginspectorate.gov.uk/project-search)<br>[Datasets](https://national-infrastructure-consenting.planninginspectorate.gov.uk/register-of-applications) | Planning Inspectorate register for nationally significant infrastructure projects |
-| **SSSI Sites (Protected Areas)** | [Dataset](https://www.planning.data.gov.uk/dataset/site-of-special-scientific-interest) | Location of Sites of Special Scientific Interest (SSSIs) in England |
 
 ---
 

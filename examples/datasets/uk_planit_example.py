@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-"""
-UK PlanIt API Example - Simplified Dummy Example
-This script demonstrates how to search for planning applications by postcode
-and then retrieve full details for a selected application using hardcoded values.
-"""
-
 import requests
 
 BASE_URL = "https://www.planit.org.uk"
