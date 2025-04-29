@@ -12,7 +12,7 @@ There are many open datasets available on the internet for planning and local go
 |----------|-------|-------------|
 | **Open Digital Planning** | [Website](https://www.planning.data.gov.uk/)<br>[API Instructions](https://www.planning.data.gov.uk/docs#api%20)<br>[Example](https://github.com/i-dot-ai/local-gov-hack/blob/main/dataset_examples/open_digital_planning.py)<br>[Datasets](https://www.planning.data.gov.uk/dataset/) | An open API provided by the MHCLG Digital Planning team, with a huge range of land and housing related datasets |
 | **PlanIt** | [Website](https://www.planit.org.uk/)<br>[API Instructions](https://www.planit.org.uk/api/)<br>[Datasets](https://www.planit.org.uk/dictionary/) | Community built dataset of planning applications in the UK, scraped from local authority websites |
-| **Planning London Datahub** | [CSV](https://3.basecamp.com/5954308/join/JskKpUBSD9Uq) | Includes LPA planning information, residential unit statistics, decision data |
+| **Planning London Datahub** | [Website](https://www.london.gov.uk/programmes-strategies/planning/digital-planning/planning-london-datahub) | Includes LPA planning information, residential unit statistics, decision data |
 | **National Infrastructure Projects** | [Website](https://national-infrastructure-consenting.planninginspectorate.gov.uk/project-search)<br>[Datasets](https://national-infrastructure-consenting.planninginspectorate.gov.uk/register-of-applications) | Planning Inspectorate register for nationally significant infrastructure projects |
 ---
 
