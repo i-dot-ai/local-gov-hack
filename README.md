@@ -123,27 +123,27 @@ To help you prepare for the hackathon, we've put together comprehensive guides a
 
 ### 📚 Hackathon Guide
 
-Explore the `hackathon_guide` directory for essential resources:
+Explore the [`hackathon_guide`](./hackathon_guide) directory for essential resources:
 
-* **challenges.md**: Detailed information about the four main challenge areas
-* **datasets.md**: List of available datasets categorized by challenge area
-* **inspiration.md**: Example projects and ideas to spark your creativity
-* **tools.md**: Information about technical tools available during the hackathon
+* **[challenges](./hackathon_guide/challenges.md)**: Detailed information about the four main challenge areas
+* **[datasets](./hackathon_guide/datasets.md)**: List of available datasets categorized by challenge area
+* **[inspiration](./hackathon_guide/inspiration.md)**: Example projects and ideas to spark your creativity
+* **[tools](./hackathon_guide/tools.md)**: Information about technical tools available during the hackathon
 
 ### 💻 Examples
 
-Check out the `examples` directory for:
+Check out the [`examples`](./examples) directory for:
 
-* **llms/**: Examples of using Large Language Models in local government applications
-* **datasets/**: Sample code for accessing and working with the provided datasets
+* **[llms/](./examples/llms/)**: Examples of using Large Language Models in local government applications
+* **[datasets/](./examples/datasets/)**: Sample code for accessing and working with the provided datasets
 
 ### 🏁 Quick Start Steps
 
-1. Review the challenge areas in `hackathon_guide/challenges.md` to decide which problem you'd like to tackle
-2. Explore available datasets in `hackathon_guide/datasets.md` that might be relevant to your chosen challenge
-3. Look through `hackathon_guide/inspiration.md` for examples and ideas of similar projects
-4. Check `hackathon_guide/tools.md` for information about accessing LLMs and other tools
-5. Browse the examples in the `examples` directory to get familiar with the available resources
+1. Review the challenge areas in [`hackathon_guide/challenges`](./hackathon_guide/challenges.md) to decide which problem you'd like to tackle
+2. Explore available datasets in [`hackathon_guide/datasets`](./hackathon_guide/datasets.md) that might be relevant to your chosen challenge
+3. Look through [`hackathon_guide/inspiration`](./hackathon_guide/inspiration.md) for examples and ideas of similar projects
+4. Check [`hackathon_guide/tools`](./hackathon_guide/tools.md) for information about accessing LLMs and other tools
+5. Browse the examples in the [`examples`](./examples) directory to get familiar with how to use the available resources
 
 ## ⏭️ What happens next?
 
