@@ -27,27 +27,27 @@ Below is the agenda for this two-day event.
 | ----- | :---- | :---- | :---- |
 | **Day 1: Foundations and Development** |  |  |  |
 | 9:00 \- 10:00 | Registration & Welcome | Atrium | Participant arrival, collection of name tag and networking. |
-| 10:00 \- 10:20  | Opening Session | Theatre | Welcome & overview (20 mins)<br>Welcome / energiser & icebreaker<br>Who's involved<br>Agenda overview and housekeeping<br>Scene setting, intro to GDS and new ways of working |
-| 10:20 \- 10:55 | The planning system and challenge statements | Theatre  | Intro to the challenge statements (10 mins)<br>Why planning matters, digital planning and challenge statements<br>The size of the prize: what's available if we get this right |
-|  |  |  | Panel on the challenges in planning (25 mins)<br>Reflections on the challenge statements<br>Interactive questions and feedback |
-| 10:55 \- 11:15 | Resources and outputs | Theatre | Materials and outputs<br>Overview of data sets and tech (10 mins)<br>Planning data platform<br>Judging criteria and what you need to submit (5 mins) |
-| 11:15 \- 11:45 | Team Formation | Start around theatre<br>Move to seminar/breakout | Brief explanation of next steps, getting into groups<br>How we're staying in touch<br><br>Set out challenge areas around the room<br>Form groups based on interests<br>Opportunity to pitch for those who want to do something different |
+| 10:00 \- 10:20  | Opening Session | Theatre | Welcome & overview (20 mins):<br>- Welcome / energiser & icebreaker<br>- Who's involved<br>- Agenda overview and housekeeping<br>- Scene setting, intro to GDS and new ways of working |
+| 10:20 \- 10:55 | The planning system and challenge statements | Theatre  | Intro to the challenge statements (10 mins):<br>- Why planning matters, digital planning and challenge statements<br>- The size of the prize: what's available if we get this right |
+|  |  |  | Panel on the challenges in planning (25 mins):<br>- Reflections on the challenge statements<br>- Interactive questions and feedback |
+| 10:55 \- 11:15 | Resources and outputs | Theatre | Materials and outputs:<br>- Overview of data sets and tech (10 mins)<br>- Planning data platform<br>- Judging criteria and what you need to submit (5 mins) |
+| 11:15 \- 11:45 | Team Formation | Start around theatre<br>Move to seminar/breakout | - Brief explanation of next steps, getting into groups<br>- How we're staying in touch<br><br>Activities:<br>- Set out challenge areas around the room<br>- Form groups based on interests<br>- Opportunity to pitch for those who want to do something different |
 | 11:45 \- 12:00 | Break | Atrium |  |
-| 12:00 \- 12:30 | **Building blocks:** Data sets, case studies, and tech resources | Theatre | Introduction to datasets and case studies (20 mins)<br>Planning Data Platform<br>London Planning Datahub<br>Extract Somerset<br>Tools and environments<br>Cloud platforms & AI libraries |
+| 12:00 \- 12:30 | **Building blocks:** Data sets, case studies, and tech resources | Theatre | Introduction to datasets and case studies (20 mins):<br>- Planning Data Platform<br>- London Planning Datahub<br>- Extract Somerset<br>- Tools and environments<br>- Cloud platforms & AI libraries |
 | 12:30 \- 13:30 | Lunch | Atrium |  |
 | 13:30 \- 13:45 | Mentor introductions | Lecture theatre | Mentors will provide quick overviews of who they are and how they can help |
-| 12:30 \- 17:00 | Hacking  | Breakout/Seminars | Teams develop their applications/solutions<br>Mentors provide technical and domain-specific assistance in seminar rooms |
-| 17:00 \- 18:00 | Progress Check-in | Seminar | Teams present progress and challenges<br>Feedback and suggestions from mentors and other teams |
-| 18:00 \- 21:00 | Continued Hacking (Optional) |  | Teams continue development<br>Communal areas open; security leaves at 22:00 |
+| 12:30 \- 17:00 | Hacking  | Breakout/Seminars | - Teams develop their applications/solutions<br>- Mentors provide technical and domain-specific assistance in seminar rooms |
+| 17:00 \- 18:00 | Progress Check-in | Seminar | - Teams present progress and challenges<br>- Feedback and suggestions from mentors and other teams |
+| 18:00 \- 21:00 | Continued Hacking (Optional) |  | - Teams continue development<br>- Communal areas open; security leaves at 22:00 |
 | **Day 2: Finalisation, Presentations, and Judging** |  |  |  |
 | 8:30 \- 10:00 | Breakfast and morning hacking | Atrium |  |
 | 10:00 \- 10:20 | Morning welcome | Theatre  |  |
-| 10:20 \- 13:00 | Final Development & Presentation Prep |  | Teams finalize applications and prepare presentations<br>Mentors provide last-minute support |
+| 10:20 \- 13:00 | Final Development & Presentation Prep |  | - Teams finalize applications and prepare presentations<br>- Mentors provide last-minute support |
 | 12:00 \- 13:00 | Lunch | Atrium | Opportunity to rehearse presentations |
-| 13:00 \- 15:00 | Team Presentations | Theatre | Teams present projects to judges and participants<br>15 groups / 5 min presentations; 3 mins Q\&A and 2 min set up for each team |
-| 15:00 \- 16:00 | Judging & Deliberation | Seminar room | Judges evaluate projects based on criteria<br>Judges select winning teams |
+| 13:00 \- 15:00 | Team Presentations | Theatre | - Teams present projects to judges and participants<br>- 15 groups / 5 min presentations; 3 mins Q\&A and 2 min set up for each team |
+| 15:00 \- 16:00 | Judging & Deliberation | Seminar room | - Judges evaluate projects based on criteria<br>- Judges select winning teams |
 | 15:00 \- 16:00  | Networking  | Atrium  | While judges are evaluating, participants can socialise with stakeholders |
-| 16:00 \- 16:30 | Awards & Closing Ceremony | Theatre | Announcement of winners and prize distribution<br>Closing remarks |
+| 16:00 \- 16:30 | Awards & Closing Ceremony | Theatre | - Announcement of winners and prize distribution<br>- Closing remarks |
 | 16:30 \- 17:00 | Networking | Atrium |  |
 
 ## 🎯 Challenge information
