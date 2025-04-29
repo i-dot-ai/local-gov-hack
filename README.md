@@ -126,7 +126,7 @@ To help you prepare for the hackathon, we've put together comprehensive guides a
 Explore the [`hackathon_guide`](./hackathon_guide) directory for essential resources:
 
 * **[challenges](./hackathon_guide/challenges.md)**: Detailed information about the four main challenge areas
-* **[datasets](./hackathon_guide/datasets.md)**: List of available datasets categorized by challenge area
+* **[datasets](./hackathon_guide/datasets.md)**: List of potential datasets you may find useful
 * **[inspiration](./hackathon_guide/inspiration.md)**: Example projects and ideas to spark your creativity
 * **[tools](./hackathon_guide/tools.md)**: Information about technical tools available during the hackathon
 
@@ -139,7 +139,7 @@ Check out the [`examples`](./examples) directory for:
 
 ### 🏁 Quick Start Steps
 
-1. Review the challenge areas in [`hackathon_guide/challenges`](./hackathon_guide/challenges.md) to decide which problem you'd like to tackle
+1. Review the challenge areas in [`hackathon_guide/challenges`](./hackathon_guide/challenges.md)
 2. Explore available datasets in [`hackathon_guide/datasets`](./hackathon_guide/datasets.md) that might be relevant to your chosen challenge
 3. Look through [`hackathon_guide/inspiration`](./hackathon_guide/inspiration.md) for examples and ideas of similar projects
 4. Check [`hackathon_guide/tools`](./hackathon_guide/tools.md) for information about accessing LLMs and other tools
