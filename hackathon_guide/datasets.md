@@ -70,7 +70,7 @@ There are many open datasets available on the internet for planning and local go
 | **NaPTAN (Transport Stops)** | [Downloads](https://naptan.api.dft.gov.uk/) | Coordinates and metadata for all bus, rail, ferry, tram, and airport stops |
 | **Bus Open Data Service (BODS)** | [Portal](https://data.bus-data.dft.gov.uk/) | GTFS datasets with routes, stops, timetables for bus services across England |
 | **DfT Traffic Counts** | [Tool](https://roadtraffic.dft.gov.uk/#download) | Annual traffic volumes for road links in GB by vehicle type |
-| **National Rail Data Portal** | [NRDP](https://datafeeds.networkrail.co.uk/) | Open data feeds for UK rail network, including schedules and infrastructure |
+| **National Rail Data** | [Website](https://www.networkrail.co.uk/who-we-are/transparency-and-ethics/transparency/open-data-feeds/) | Open data feeds for UK rail network, including schedules and infrastructure |
 | **OpenInfraMap (Power & Telecoms)** | [Map](https://openinframap.org/) | OpenStreetMap-based visualization of global telecoms, power grid, pipelines |
 
 ---
