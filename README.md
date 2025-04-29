@@ -6,8 +6,6 @@
 
 **Location: 🏢 Nexus, University of Leeds, Discovery Wy, Woodhouse, Leeds, LS2 3AA**
 
-**Contact:**
-
 ---
 
 ## 👋 Welcome!
@@ -21,33 +19,34 @@ This document contains everything you need to know to help you make the most of 
 
 ## 📋 Agenda
 
-Below is the draft agenda for this two-day event. (This may be revised further)
+Below is the agenda for this two-day event.
 
-| Time | Headline | Location |
-| ----- | :---- | :---- |
-| **Day 1: Foundations and Development** |  |  |
-| 9:00 \- 10:00 | Registration & Welcome | Atrium |
-| 10:00 \- 11:00 | Opening session, the planning system and the challenge statements | Theatre |
-| 11:05 \- 11:30 | Team formation | Move to breakout space |
-| 11:30 \- 11:45 | Break | Atrium |
-| 11:45 \- 12:30 | Datasets, case studies, IT and tech resources  | Theatre |
-| 12.30  | Hacking begins\!  |  |
-| 12:30 \- 13:30 | Lunch (provided) | Atrium |
-| 13:30 \- 13:45 | Mentor introductions (optional) \- introductions of who they are and how they can help | Theatre |
-| 13:45 \- 17:00 | Hacking continues with access to specialist mentors | Mentor and seminar rooms |
-| 17:00 \- 18:00 | Progress Check-in \- teams present progress and challenges | Seminar |
-| 18:00 | Continue hacking \- venue closes at 10pm |  |
-| **Day 2: Finalisation, Presentations, and Judging** |  |  |
-| 8:30 \- 10:00 | Breakfast (provided) | Atrium |
-| 8:30 \- 10:00 | Hacking continues |  |
-| 10:00-10:20 | Morning welcome | Theatre |
-| 10.20-13:00 | Final development and presentation preparation |  |
-| 12:00 \- 13:00 | Lunch (provided) and opportunity to rehearse presentations | Atrium |
-| 13:00 \- 15:00 | Team presentations to judges | Theatre |
-| 15:00 \- 16:00 | Judging & Deliberation  | Seminar room |
-| 15:00 \- 16:00 | Networking alongside the judges deliberation | Atrium |
-| 16:00 \- 16:30 | Awards & Closing Ceremony | Theatre |
-| 16.30 \- 17:00 | Further networking  | Atrium |
+| Time | Headline | Location | Details |
+| ----- | :---- | :---- | :---- |
+| **Day 1: Foundations and Development** |  |  |  |
+| 9:00 \- 10:00 | Registration & Welcome | Atrium | Participant arrival, collection of name tag and networking. |
+| 10:00 \- 10:20  | Opening Session | Theatre | Welcome & overview (20 mins):<br>- Welcome / energiser & icebreaker<br>- Who's involved<br>- Agenda overview and housekeeping<br>- Scene setting, intro to GDS and new ways of working |
+| 10:20 \- 10:55 | The planning system and challenge statements | Theatre  | Intro to the challenge statements (10 mins):<br>- Why planning matters, digital planning and challenge statements<br>- The size of the prize: what's available if we get this right |
+|  |  |  | Panel on the challenges in planning (25 mins):<br>- Reflections on the challenge statements<br>- Interactive questions and feedback |
+| 10:55 \- 11:15 | Resources and outputs | Theatre | Materials and outputs:<br>- Overview of data sets and tech (10 mins)<br>- Planning data platform<br>- Judging criteria and what you need to submit (5 mins) |
+| 11:15 \- 11:45 | Team Formation | Start around theatre<br>Move to seminar/breakout | - Brief explanation of next steps, getting into groups<br>- How we're staying in touch<br><br>Activities:<br>- Set out challenge areas around the room<br>- Form groups based on interests<br>- Opportunity to pitch for those who want to do something different |
+| 11:45 \- 12:00 | Break | Atrium |  |
+| 12:00 \- 12:30 | **Building blocks:** Data sets, case studies, and tech resources | Theatre | Introduction to datasets and case studies (20 mins):<br>- Planning Data Platform<br>- London Planning Datahub<br>- Extract Somerset<br>- Tools and environments<br>- Cloud platforms & AI libraries |
+| 12:30 \- 13:30 | Lunch | Atrium |  |
+| 13:30 \- 13:45 | Mentor introductions | Lecture theatre | Mentors will provide quick overviews of who they are and how they can help |
+| 12:30 \- 17:00 | Hacking  | Breakout/Seminars | - Teams develop their applications/solutions<br>- Mentors provide technical and domain-specific assistance in seminar rooms |
+| 17:00 \- 18:00 | Progress Check-in | Seminar | - Teams present progress and challenges<br>- Feedback and suggestions from mentors and other teams |
+| 18:00 \- 21:00 | Continued Hacking (Optional) |  | - Teams continue development<br>- Communal areas open; security leaves at 22:00 |
+| **Day 2: Finalisation, Presentations, and Judging** |  |  |  |
+| 8:30 \- 10:00 | Breakfast and morning hacking | Atrium |  |
+| 10:00 \- 10:20 | Morning welcome | Theatre  |  |
+| 10:20 \- 13:00 | Final Development & Presentation Prep |  | - Teams finalize applications and prepare presentations<br>- Mentors provide last-minute support |
+| 12:00 \- 13:00 | Lunch | Atrium | Opportunity to rehearse presentations |
+| 13:00 \- 15:00 | Team Presentations | Theatre | - Teams present projects to judges and participants<br>- 15 groups / 5 min presentations; 3 mins Q\&A and 2 min set up for each team |
+| 15:00 \- 16:00 | Judging & Deliberation | Seminar room | - Judges evaluate projects based on criteria<br>- Judges select winning teams |
+| 15:00 \- 16:00  | Networking  | Atrium  | While judges are evaluating, participants can socialise with stakeholders |
+| 16:00 \- 16:30 | Awards & Closing Ceremony | Theatre | - Announcement of winners and prize distribution<br>- Closing remarks |
+| 16:30 \- 17:00 | Networking | Atrium |  |
 
 ## 🎯 Challenge information
 
@@ -114,7 +113,35 @@ If you have any concerns during the event please speak with the organisers immed
 
 **Mentor availability and expertise:**
 
-🧠 Planning experts and specialists from the Incubator for Artificial Intelligence (i.AI), will be available as mentors during the hackathon. More information will be provided at the event about who is available. 
+🧠 Planning experts and specialists from Digital Planning, AWS and the Incubator for Artificial Intelligence (i.AI), will be available as mentors during the hackathon. More information will be provided at the event about who is available. 
+
+## 🚀 Getting Started
+
+To help you prepare for the hackathon, we've put together comprehensive guides and examples:
+
+### 📚 Hackathon Guide
+
+Explore the [`hackathon_guide`](./hackathon_guide) directory for essential resources:
+
+* **[challenges](./hackathon_guide/challenges.md)**: Detailed information about the four main challenge areas
+* **[datasets](./hackathon_guide/datasets.md)**: List of potential datasets you may find useful
+* **[inspiration](./hackathon_guide/inspiration.md)**: Example projects and ideas to spark your creativity
+* **[tools](./hackathon_guide/tools.md)**: Information about technical tools available during the hackathon
+
+### 💻 Examples
+
+Check out the [`examples`](./examples) directory for:
+
+* **[llms/](./examples/llms/)**: Examples of accessing the Large Language Models
+* **[datasets/](./examples/datasets/)**: Sample code for accessing and working with the provided datasets
+
+### 🏁 Quick Start Steps
+
+1. Review the challenge areas in [`hackathon_guide/challenges`](./hackathon_guide/challenges.md)
+2. Explore available datasets in [`hackathon_guide/datasets`](./hackathon_guide/datasets.md) that might be relevant to your chosen challenge
+3. Look through [`hackathon_guide/inspiration`](./hackathon_guide/inspiration.md) for examples and ideas of similar projects
+4. Check [`hackathon_guide/tools`](./hackathon_guide/tools.md) for information about accessing LLMs and other tools
+5. Browse the examples in the [`examples`](./examples) directory to get familiar with how to use the available resources
 
 ## ⏭️ What happens next?
 
@@ -131,5 +158,6 @@ If you have any concerns during the event please speak with the organisers immed
 🔮 Watch out for announcements about upcoming local government hackathons. 
 
 If you opted in, when completing the skills survey for the hackathon, we'll keep you informed about future events. 
+
 
  
