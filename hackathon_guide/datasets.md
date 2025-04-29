@@ -3,9 +3,8 @@
 
 ## 🗃️ Available Datasets
 
-There are many open datasets available on the internet for planning and local government. We have provided a list of some resources we think are very useful and great places to start. However, you are free to search and find any other datasets you might need for your solution.
+> There are many open datasets available on the internet for planning and local government. We have provided a list of some resources we think are very useful and great places to start. However, you are free to search and find any other datasets you might need for your solution.
 
----
 
 ### 🌟 Key Datasets
 
@@ -18,6 +17,7 @@ London-specific planning application data with detailed insights into residentia
 
 For the hackathon, we would love to see analyses on borough housing trends, construction progress tracking, approval-to-completion timelines, future delivery predictions, application success rates, stalled development identification, and historical pattern insights.
 
+---
 
 
 ### 🏗️ Planning & Land Use
