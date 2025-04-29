@@ -6,8 +6,6 @@
 
 **Location: 🏢 Nexus, University of Leeds, Discovery Wy, Woodhouse, Leeds, LS2 3AA**
 
-**Contact:**
-
 ---
 
 ## 👋 Welcome!
