@@ -4,9 +4,9 @@
 
 | Provider | Links | Notes |
 |------|-------|-------|
-| **Azure OpenAI** | [Azure OpenAI Documentation](https://learn.microsoft.com/en-us/azure/ai-services/openai/)| Endpoint and Key will be shared during the event |
-| **AWS - Free account with Bedrock** | [Link to access a free AWS account for the hack](https://catalog.us-east-1.prod.workshops.aws/join)<br>[Setup guide, including how to access LLMs through Bedrock](https://catalog.workshops.aws/genai-hackathon/en-US) | Provides access to:<br>• All Amazon Models<br>• Anthropic Claude 3.7 Sonnet<br>• Anthropic Claude 3.5 Haiku<br>• Meta Llama 3.2 11B Vision & Instruct<br>• Mistral 7B Instruct<br>• Stable Diffusion 3 Large |
-| **Anthropic - $20 of API credits** | [Link to request $20 of Anthropic API credits](https://docs.google.com/forms/d/e/1FAIpQLScQwvMlBqs8W-knMbYdXoRxUVDk_fGUTV9fIi54_jUsK_bGIw/viewform) | Must be requested by COP 27th April |
+| **Azure OpenAI** | • [Azure OpenAI Documentation](https://learn.microsoft.com/en-us/azure/ai-services/openai/)<br>• [Example Code](../examples/llms/azure_openai_demo.py)| Endpoint and Key will be shared during the event |
+| **AWS - Free account with Bedrock** | • [Link to access a free AWS account for the hack](https://catalog.us-east-1.prod.workshops.aws/join)<br>• [Setup guide, including how to access LLMs through Bedrock](https://catalog.workshops.aws/genai-hackathon/en-US)<br>• [Example Code](../examples/llms/aws_bedrock_demo.py) | Provides access to:<br>• All Amazon Models<br>• Anthropic Claude 3.7 Sonnet<br>• Anthropic Claude 3.5 Haiku<br>• Meta Llama 3.2 11B Vision & Instruct<br>• Mistral 7B Instruct<br>• Stable Diffusion 3 Large |
+| **Anthropic - $20 of API credits** | • [Link to request $20 of Anthropic API credits](https://docs.google.com/forms/d/e/1FAIpQLScQwvMlBqs8W-knMbYdXoRxUVDk_fGUTV9fIi54_jUsK_bGIw/viewform) | Must be requested by COP 27th April |
 
 
 ## ✨ Large Language Model Capabilities
