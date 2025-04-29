@@ -115,7 +115,35 @@ If you have any concerns during the event please speak with the organisers immed
 
 **Mentor availability and expertise:**
 
-🧠 Planning experts and specialists from the Incubator for Artificial Intelligence (i.AI), will be available as mentors during the hackathon. More information will be provided at the event about who is available. 
+🧠 Planning experts and specialists from Digital Planning, AWS and the Incubator for Artificial Intelligence (i.AI), will be available as mentors during the hackathon. More information will be provided at the event about who is available. 
+
+## 🚀 Getting Started
+
+To help you prepare for the hackathon, we've put together comprehensive guides and examples:
+
+### 📚 Hackathon Guide
+
+Explore the `hackathon_guide` directory for essential resources:
+
+* **challenges.md**: Detailed information about the four main challenge areas
+* **datasets.md**: List of available datasets categorized by challenge area
+* **inspiration.md**: Example projects and ideas to spark your creativity
+* **tools.md**: Information about technical tools available during the hackathon
+
+### 💻 Examples
+
+Check out the `examples` directory for:
+
+* **llms/**: Examples of using Large Language Models in local government applications
+* **datasets/**: Sample code for accessing and working with the provided datasets
+
+### 🏁 Quick Start Steps
+
+1. Review the challenge areas in `hackathon_guide/challenges.md` to decide which problem you'd like to tackle
+2. Explore available datasets in `hackathon_guide/datasets.md` that might be relevant to your chosen challenge
+3. Look through `hackathon_guide/inspiration.md` for examples and ideas of similar projects
+4. Check `hackathon_guide/tools.md` for information about accessing LLMs and other tools
+5. Browse the examples in the `examples` directory to get familiar with the available resources
 
 ## ⏭️ What happens next?
 
@@ -132,5 +160,6 @@ If you have any concerns during the event please speak with the organisers immed
 🔮 Watch out for announcements about upcoming local government hackathons. 
 
 If you opted in, when completing the skills survey for the hackathon, we'll keep you informed about future events. 
+
 
  
