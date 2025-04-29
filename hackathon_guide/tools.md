@@ -44,6 +44,7 @@ As a quick start, here's a high level overview of what Large Language Models (LL
 
 | Tool               | Links                                                                 | Notes                                      |
 |--------------------|-----------------------------------------------------------------------|--------------------------------------------|
+| **Model Context Protocol** | [Documentation](https://www.anthropic.com/news/model-context-protocol) | Framework for allowing LLMs to use data and tools |
 | **Segment Anything** | [Website](https://segment-anything.com/)<br>[GitHub](https://github.com/facebookresearch/segment-anything) | Meta AI model for image segmentation tasks |
 | **Whisper**        | [GitHub](https://github.com/openai/whisper)                             | OpenAI model for speech-to-text transcription |
 | **YOLO**           | [Website](https://pjreddie.com/darknet/yolo/)<br>[GitHub (v8)](https://github.com/ultralytics/ultralytics) | Real-time object detection models         |
