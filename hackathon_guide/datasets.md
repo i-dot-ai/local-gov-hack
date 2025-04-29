@@ -8,7 +8,7 @@
 
 ### 🌟 Key Datasets
 
-#### [Digital Planning](https://www.planning.data.gov.uk/)
+#### [Planning Data](https://www.planning.data.gov.uk/)
 
 Comprehensive API with land and housing datasets across England. This open platform collects and standardizes planning data from various sources, allowing anyone to view, build services, or analyze the data. Making this data more accessible aims to improve planning decisions, reduce delays, enable new digital services, and enhance community-development relationships.
 
