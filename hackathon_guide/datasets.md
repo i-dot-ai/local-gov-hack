@@ -37,8 +37,7 @@ There are many open datasets available on the internet for planning and local go
 | Resource | Links | Description |
 |----------|-------|-------------|
 | **2021 Census** | [Census Maps](https://www.ons.gov.uk/census/maps/)<br>[Local Stats](https://www.ons.gov.uk/explore-local-statistics/)<br>[Datasets](https://www.nomisweb.co.uk/sources/census_2021) | Population, health, housing, ethnicity, travel to work, etc. by local area |
-| **ONS Population Estimates & Projections API** | [API Website](https://api.ons.gov.uk/) | Baseline births, deaths, migration at LA / MSOA / OA level |
-| **Nomis Census & Migration API** | [Website](https://www.nomisweb.co.uk/api/v01/) | Origin‑destination flows, labour‑market & socio‑economic attributes |
+| **ONS Population Estimates & Projections** | [National](https://www.nomisweb.co.uk/sources/pest)<br>[Local Authority](https://www.nomisweb.co.uk/datasets/pestsyoala) | Baseline births, deaths, migration at LA / MSOA / OA level |
 | **MHCLG Statistics** | [Homepage](https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government/about/statistics)<br>[Search](https://www.gov.uk/search/research-and-statistics?content_store_document_type=statistics_published&organisations%5B%5D=ministry-of-housing-communities-local-government&order=updated-newest) | Central government housing and planning statistics |
 | **DfT Journey Time Statistics** | [Website](https://www.gov.uk/government/collections/journey-time-statistics) | Travel time to key services (school, jobs, GPs) by LSOA and transport mode |
 
@@ -48,14 +47,14 @@ There are many open datasets available on the internet for planning and local go
 | Resource | Links | Description |
 |----------|-------|-------------|
 | **DEFRA Data Platform** | [Website](https://environment.data.gov.uk/)<br>[API](https://environment.data.gov.uk/apiportal)<br>[Examples](https://environment.data.gov.uk/appgallery) | Environmental data including air quality, land, river networks, water bodies, and flood risk |
-| **Innovation Clusters Map** | [Website](https://www.innovationclusters.dsit.gov.uk/)<br>[Download](https://www.innovationclusters.dsit.gov.uk/) | Explore UK clusters of innovation activity and business R&D hotspots |
+| **Innovation Clusters Map** | [Website](https://www.innovationclusters.dsit.gov.uk/) | Explore UK clusters of innovation activity and business R&D hotspots |
 
 ---
 
 ### 🏠 Housing & Property
 | Resource | Links | Description |
 |----------|-------|-------------|
-| **UK House Price Index** | [Tool](https://landregistry.data.gov.uk/app/ukhpi/?lang=en) | Monthly residential property price data by country, region, and local authority |
+| **UK House Price Index** | [`Website`](https://landregistry.data.gov.uk/app/ukhpi/?lang=en) | Monthly residential property price data by country, region, and local authority |
 | **Housing Delivery Test (England)** | [Dataset](https://www.gov.uk/government/publications/housing-delivery-test-2023-measurement) | Measures how many homes were built against required targets for each local authority |
 | **ONS Housing Affordability** | [Dataset](https://www.ons.gov.uk/peoplepopulationandcommunity/housing#publications) | Ratio of median house price to median gross annual earnings |
 | **HM Land Registry Price Paid & UK HPI** | [Website](https://landregistry.data.gov.uk/) | Comparable sales data with new‑build flag; bulk CSV & SPARQL |
@@ -67,7 +66,7 @@ There are many open datasets available on the internet for planning and local go
 ### 🚆 Transport & Connectivity
 | Resource | Links | Description |
 |----------|-------|-------------|
-| **NaPTAN (Transport Stops)** | [Downloads](https://naptan.api.dft.gov.uk/) | Coordinates and metadata for all bus, rail, ferry, tram, and airport stops |
+| **NaPTAN (Transport Stops)** | [Downloads](https://beta-naptan.dft.gov.uk/) | Coordinates and metadata for all bus, rail, ferry, tram, and airport stops |
 | **Bus Open Data Service (BODS)** | [Portal](https://data.bus-data.dft.gov.uk/) | GTFS datasets with routes, stops, timetables for bus services across England |
 | **DfT Traffic Counts** | [Tool](https://roadtraffic.dft.gov.uk/#download) | Annual traffic volumes for road links in GB by vehicle type |
 | **National Rail Data** | [Website](https://www.networkrail.co.uk/who-we-are/transparency-and-ethics/transparency/open-data-feeds/) | Open data feeds for UK rail network, including schedules and infrastructure |
