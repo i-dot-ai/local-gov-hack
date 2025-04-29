@@ -134,7 +134,7 @@ Explore the [`hackathon_guide`](./hackathon_guide) directory for essential resou
 
 Check out the [`examples`](./examples) directory for:
 
-* **[llms/](./examples/llms/)**: Examples of using Large Language Models in local government applications
+* **[llms/](./examples/llms/)**: Examples of accessing the Large Language Models
 * **[datasets/](./examples/datasets/)**: Sample code for accessing and working with the provided datasets
 
 ### 🏁 Quick Start Steps
