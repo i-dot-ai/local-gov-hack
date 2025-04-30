@@ -22,6 +22,15 @@ For the hackathon, we would love to see analyses on borough housing trends, cons
 A collection of open geospatial and local authority data that researchers, analysts, journalists and others may find useful. All the files listed can be used, with attribution, in commercial work and you’re free to adapt the data as you wish. They have tried to add value to the original data by including more information in the files and/or by combining small parts into a larger whole. Have fun!
 
 
+#### [Data Mill North](https://datamillnorth.org/search?q=planning)
+
+Data Mill North is the open data repository for the north of England, hosted by Leeds City Council. 
+
+
+#### [Data Mill North](https://observatory.leeds.gov.uk/)
+
+Leeds observatory provides key data about the Leeds economy and population. 
+
 ---
 
 
