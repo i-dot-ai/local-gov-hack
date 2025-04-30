@@ -27,7 +27,7 @@ A collection of open geospatial and local authority data that researchers, analy
 Data Mill North is the open data repository for the north of England, hosted by Leeds City Council. 
 
 
-#### [Data Mill North](https://observatory.leeds.gov.uk/)
+#### [Leeds Observatory](https://observatory.leeds.gov.uk/)
 
 Leeds observatory provides key data about the Leeds economy and population. 
 
