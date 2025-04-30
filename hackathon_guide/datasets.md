@@ -17,6 +17,11 @@ London-specific planning application data with detailed insights into residentia
 
 For the hackathon, we would love to see analyses on borough housing trends, construction progress tracking, approval-to-completion timelines, future delivery predictions, application success rates, stalled development identification, and historical pattern insights.
 
+#### [Automatic Knowledge](https://automaticknowledge.co.uk/resources/)
+
+A collection of open geospatial and local authority data that researchers, analysts, journalists and others may find useful. All the files listed can be used, with attribution, in commercial work and you’re free to adapt the data as you wish. They have tried to add value to the original data by including more information in the files and/or by combining small parts into a larger whole. Have fun!
+
+
 ---
 
 
