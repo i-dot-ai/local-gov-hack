@@ -43,8 +43,8 @@ The UK's emerging **PlanTech** stack already shows how open data + AI can upgrad
 | Resource | Link | Why it matters |
 |---|---|---|
 | **National Infrastructure Commission Progress Review 2024** | [NIC Assessment](https://nic.org.uk/studies-reports/national-infrastructure-assessment/) | Latest capacity gaps & target metrics across water, energy, digital |
-| **Anglian Water Safe Smart Systems Digital Twin** | [Anglian Water Innovation](https://www.anglianwater.co.uk/about-us/innovation/) | County‑scale twin streaming pipe‑flow data; open architecture diagram |
-| **UKRI Environmental‑Science Digital‑Twin Programme** | [UKRI Digital Twins](https://www.ukri.org/what-we-offer/browse-our-areas-of-investment-and-support/environmental-digital-twins/) | Grants + open Python tooling for scenario testing floods/droughts ([GitHub](https://github.com/ATFutures/who)) |
+| **Anglian Water Safe Smart Systems Digital Twin** | [Anglian Water Innovation]([https://www.anglianwater.co.uk/about-us/innovation/](https://www.iotinsider.com/industries/industrial/lessons-from-anglian-waters-large-scale-digital-twin-deployment)) | County‑scale twin streaming pipe‑flow data; open architecture diagram |
+| **UKRI Environmental‑Science Digital‑Twin Programme** | [UKRI Digital Twins]([https://www.ukri.org/what-we-offer/browse-our-areas-of-investment-and-support/environmental-digital-twins/](https://www.ukri.org/news/digital-twin-projects-to-transform-environmental-science/)) | Grants + open Python tooling for scenario testing floods/droughts ([GitHub](https://github.com/ATFutures/who)) |
 
 ---
 
