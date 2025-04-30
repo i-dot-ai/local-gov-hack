@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic Flask App</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <h1>Welcome to My Flask App!</h1>
+    <div class="min-h-screen bg-gray-50 p-6">
+        <div class="mx-auto bg-white rounded-lg shadow-lg overflow-hidden" style="max-width: 1200px;">
+            <div class="bg-blue-700 text-white p-4">
+                <h1 class="text-2xl font-bold">Redbridge Planning Policy Assessment</h1>
+            </div>
+            <div style="display: flex; flex-direction: row; padding: 24px;">
+                <!-- Application Details - Left Side -->
+                <div style="width: 50%; margin-right: 12px;" class="border rounded-lg shadow-sm">
+                    <div class="bg-gray-100 p-4 border-b">
+                        <h2 class="text-xl font-semibold text-gray-800">Application Details</h2>
+                    </div>
+                    <div class="p-4 space-y-4">
+                        <div>
+                            <h3 class="font-medium text-gray-600">Site Address</h3>
+                            <p class="text-gray-800">{{ applicationDetails.address }}</p>
+                        </div>
+                        <div>
+                            <h3 class="font-medium text-gray-600">Proposal</h3>
+                            <p class="text-gray-800">{{ applicationDetails.proposal }}</p>
+                        </div>
+                        <div style="display: flex; justify-content: space-between;">
+                            <div style="width: 48%;">
+                                <h3 class="font-medium text-gray-600">Applicant</h3>
+                                <p class="text-gray-800">{{ applicationDetails.applicant }}</p>
+                            </div>
+                            <div style="width: 48%;">
+                                <h3 class="font-medium text-gray-600">Agent</h3>
+                                <p class="text-gray-800">{{ applicationDetails.agentName }}</p>
+                            </div>
+                        </div>
+                        <div style="display: flex; justify-content: space-between; margin-top: 16px;">
+                            <div style="width: 48%;">
+                                <h3 class="font-medium text-gray-600">Received</h3>
+                                <p class="text-gray-800">{{ applicationDetails.received }}</p>
+                            </div>
+                            <div style="width: 48%;">
+                                <h3 class="font-medium text-gray-600">Validated</h3>
+                                <p class="text-gray-800">{{ applicationDetails.validated }}</p>
+                            </div>
+                        </div>
+                        <div style="display: flex; justify-content: space-between; margin-top: 16px;">
+                            <div style="width: 48%;">
+                                <h3 class="font-medium text-gray-600">Type</h3>
+                                <p class="text-gray-800">{{ applicationDetails.type }}</p>
+                            </div>
+                            <div style="width: 48%;">
+                                <h3 class="font-medium text-gray-600">Status</h3>
+                                <p class="text-gray-800">{{ applicationDetails.status }}</p>
+                            </div>
+                        </div>
+                        <div class="border-t pt-4">
+                            <h3 class="font-medium text-gray-600">Description</h3>
+                            <p class="text-gray-800 mt-1">{{ applicationDetails.description }}</p>
+                        </div>
+                        <div class="border-t pt-4">
+                            <h3 class="font-medium text-gray-600">Materials</h3>
+                            <p class="text-gray-800 mt-1">{{ applicationDetails.materials }}</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- Policy Assessment - Right Side -->
+                <div style="width: 50%; margin-left: 12px;" class="border rounded-lg shadow-sm">
+                    <div class="bg-gray-100 p-4 border-b">
+                        <h2 class="text-xl font-semibold text-gray-800">Policy Assessment</h2>
+                    </div>
+                    <div class="p-4 space-y-4">
+                        <div>
+                            <h3 class
