@@ -21,7 +21,7 @@ The UK's emerging **PlanTech** stack already shows how open data + AI can upgrad
 |---|---|---|
 | **Extract - AI pipeline (DSIT/MHCLG)** | [Extract Project](https://ai.gov.uk/projects/extract/) | OCR + computer‑vision turns PDF plans into JSON in <40 s |
 | **Turing DSG Mask‑RCNN for Planning Drawings** | [Turing Data Study Group](https://www.turing.ac.uk/collaborate-turing/data-study-groups/can-we-automate-uks-planning-system-using-ai) | Open dataset & code identify north arrows, floorplans etc. |
-| **Knight Frank Rules‑Engine Case Study** | [Knight Frank Planning AI](https://www.knightfrank.com/planning-ai-case-study) | Shows feature list for auto‑screening invalid applications |
+| **PlanX Planning Applications** | [PlanX](https://opendigitalplanning.org/planx) | Automating processes for submitting planning applications |
 | **PlanTech market‑scan blog** | [Medium Article](https://medium.com/capital-enterprise/plantech-a-new-market-for-digital-planning-products-and-services-885678f9de89) | Maps commercial + open‑source APIs you can mash together ([Medium](https://medium.com/capital-enterprise/plantech-a-new-market-for-digital-planning-products-and-services-885678f9de89)) |
 
 ---
