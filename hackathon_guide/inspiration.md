@@ -15,6 +15,7 @@ The UK's emerging **PlanTech** stack already shows how open data + AI can upgrad
 | **Street2Vec change‑detection (London, 15 M images)** | [arXiv Paper](https://arxiv.org/abs/2309.11354) | Self‑supervised model spots new housing supply from Street View—idea: plug into planning‑photo archives ([arxiv.org](https://arxiv.org/abs/2309.11354)) |
 | **ONS Floor‑Area Admin Pilot** | [ONS Geography Methodology](https://www.ons.gov.uk/methodology/geography) | Adds missing floor‑area attributes that improve dwelling‑stock estimates |
 | **Short‑Term UK Water‑Demand ML Forecast (2024)** | [ResearchGate Publication](https://www.researchgate.net/publication/350559345_Short-Term_Forecasting_of_Household_Water_Demand_in_the_UK_Using_an_Interpretable_Machine_Learning_Approach) | Example of interpretable tree model that links demand to infrastructure capacity ([ResearchGate](https://www.researchgate.net/publication/350559345_Short-Term_Forecasting_of_Household_Water_Demand_in_the_UK_Using_an_Interpretable_Machine_Learning_Approach)) |
+| **Parliamentary POST note – Housing: demographic and environmental trends** | [Parliament Research Briefing](https://post.parliament.uk/housing-demographic-and-environmental-trends/) | How can the housing be adapted to an ageing population and to meet the challenge of climate change? |
 
 ### ⚙️ Planning‑Process Automation
 | Resource | Link | Why it matters |
@@ -42,7 +43,6 @@ The UK's emerging **PlanTech** stack already shows how open data + AI can upgrad
 | Resource | Link | Why it matters |
 |---|---|---|
 | **National Infrastructure Commission Progress Review 2024** | [NIC Assessment](https://nic.org.uk/studies-reports/national-infrastructure-assessment/) | Latest capacity gaps & target metrics across water, energy, digital |
-| **Parliamentary POST note – Digitalisation of UK Infrastructure** | [Parliament Research Briefing](https://post.parliament.uk/research-briefings/post-pn-0686/) | Concise dataset & standards roundup (IFC, BIM, D‑COM) |
 | **Anglian Water Safe Smart Systems Digital Twin** | [Anglian Water Innovation](https://www.anglianwater.co.uk/about-us/innovation/) | County‑scale twin streaming pipe‑flow data; open architecture diagram |
 | **UKRI Environmental‑Science Digital‑Twin Programme** | [UKRI Digital Twins](https://www.ukri.org/what-we-offer/browse-our-areas-of-investment-and-support/environmental-digital-twins/) | Grants + open Python tooling for scenario testing floods/droughts ([GitHub](https://github.com/ATFutures/who)) |
 
