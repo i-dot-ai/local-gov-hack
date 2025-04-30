@@ -33,7 +33,7 @@ The UK's emerging **PlanTech** stack already shows how open data + AI can upgrad
 | **Consult** | [Consult Project](https://ai.gov.uk/projects/consult/) | AI-powered tool to analyze and extract themes from public consultation responses |
 | **ThemeFinder** | [GitHub Repository](https://github.com/i-dot-ai/themefinder) | Topic modelling Python package for analyzing survey responses and public consultations with LLM-powered theme identification |
 | **Minute** | [Minute Project](https://ai.gov.uk/projects/minute/) | AI tool for automatically creating summaries of meeting minutes and highlighting action items |
-| **DLUHC PropTech Innovation Fund (Prospectus + Case Studies)** | [PropTech Innovation Fund PDF](https://media.localdigital.gov.uk/uploads/2023/10/16171343/PropTech-Innovation-Fund-Prospectus-Round-4-.pdf) | User‑research findings, open schemas & funding for LPA pilots ([Local Digital](https://media.localdigital.gov.uk/uploads/2023/10/16171343/PropTech-Innovation-Fund-Prospectus-Round-4-.pdf)) |
+| **MHCLG PropTech Innovation Fund (Prospectus + Case Studies)** | [PropTech Innovation Fund PDF](https://media.localdigital.gov.uk/uploads/2023/10/16171343/PropTech-Innovation-Fund-Prospectus-Round-4-.pdf) | User‑research findings, open schemas & funding for LPA pilots ([Local Digital](https://media.localdigital.gov.uk/uploads/2023/10/16171343/PropTech-Innovation-Fund-Prospectus-Round-4-.pdf)) |
 | **Digital Planning Programme overview** | [Local Digital Planning Overview](https://www.localdigital.gov.uk/digital-planning/digital-planning-programme-overview/) | Summaries of real council pilots—"what worked / what bombed" insights ([Local Digital](https://www.localdigital.gov.uk/digital-planning/digital-planning-programme-overview/)) |
 
 ---
