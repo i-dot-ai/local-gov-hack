@@ -13,14 +13,23 @@ planning_assistant/
 │   │   ├── document_processor.py
 │   │   ├── policy_indexer.py
 │   │   ├── application_validator.py
-│   │   └── async_processor.py
+│   │   └── policy_analyser.py
 │   ├── services/
 │   │   ├── __init__.py
 │   │   ├── aws_service.py
-│   │   ├── cache_service.py
-│   │   └── search_service.py
+│   │   ├── search_service.py
+│   │   
 │   └── utils/
 │       ├── __init__.py
 │       └── helpers.py
 ├── tests/
 └── requirements.txt
+
+
+Workflow
+The applicant submits an application through the frontend, which sends a request to the /submit_application endpoint.
+The submit_application function in app/api/routes.py handles the request, uploads the application to S3 using upload_application_to_s3 from app/services/aws_service.py.
+It then analyzes the policy documents using analyze_policy_documents from app/services/aws_service.py, which uses Bedrock LLM to identify relevant policies.
+The application is validated against the relevant policies using validate_application from app/services/aws_service.py, which again uses Bedrock LLM.
+A PDF report is generated using generate_pdf_report from app/utils/helpers.py, which includes the validation result and relevant policies.
+The report is returned to the applicant.

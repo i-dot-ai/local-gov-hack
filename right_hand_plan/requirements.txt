@@ -5,3 +5,4 @@ boto3==1.28.62
 PyPDF2==3.0.1
 reportlab==4.0.4
 python-multipart==0.0.6
+fpdf==1.7.2
