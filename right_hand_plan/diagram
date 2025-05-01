@@ -1,0 +1,21 @@
+sequenceDiagram
+    participant User
+    participant API
+    participant S3
+    participant Cache
+    participant Bedrock
+    
+    User->>API: Submit Application (Form + Files)
+    API->>S3: Store Documents (Chunked if >25MB)
+    API->>Cache: Check for Cached Policies
+    alt Cache Hit
+        Cache-->>API: Return Cached Policies
+    else Cache Miss
+        API->>Bedrock: Extract Policy Requirements
+        Bedrock-->>API: Return Requirements
+        API->>Cache: Store Results
+    end
+    API->>Bedrock: Validate Application (Multi-Step)
+    Bedrock-->>API: Return Validation Result
+    API->>User: Return PDF Report
+    

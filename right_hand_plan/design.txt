@@ -1,0 +1,26 @@
+# Project Structure
+planning_assistant/
+├── app/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── config.py
+│   ├── api/
+│   │   ├── __init__.py
+│   │   ├── routes.py
+│   │   └── validators.py
+│   ├── core/
+│   │   ├── __init__.py
+│   │   ├── document_processor.py
+│   │   ├── policy_indexer.py
+│   │   ├── application_validator.py
+│   │   └── async_processor.py
+│   ├── services/
+│   │   ├── __init__.py
+│   │   ├── aws_service.py
+│   │   ├── cache_service.py
+│   │   └── search_service.py
+│   └── utils/
+│       ├── __init__.py
+│       └── helpers.py
+├── tests/
+└── requirements.txt
