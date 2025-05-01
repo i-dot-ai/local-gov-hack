@@ -53,7 +53,7 @@ def validate_against_policies(application_content, policy_documents):
 
 Application Details:
 Application ID: {application_content['application_id']}
-Documents: {[doc['file_name'] for doc in application_content['documents']}
+Documents: {[doc['file_name'] for doc in application_content['documents']]}
 
 Application Content:
 {"\n".join([f"{doc['file_name']}:\n{doc['content'][:5000]}" for doc in application_content['documents']])}

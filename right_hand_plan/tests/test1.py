@@ -1,16 +1,28 @@
-from app.services.aws_service import S3Service, TextractService, BedrockService
+import requests
+from io import BytesIO
 
-# Upload document
-s3 = S3Service()
-file_path = s3.upload_file(uploaded_file, "applications/123/plans.pdf")
+# Prepare test files
+file1 = ("application_form.pdf", BytesIO(b"PDF content here"))
+file2 = ("supporting_docs.docx", BytesIO(b"Word doc content here"))
 
-# Extract text
-textract = TextractService()
-text = textract.extract_text(file_path)
-
-# Process with Bedrock
-bedrock = BedrockService()
-result = bedrock.invoke_model(
-    prompt=f"Analyze this document: {text}",
-    model_id="anthropic.claude-v2"
+# Submit application
+response = requests.post(
+    "http://localhost:5000/api/submit-application",
+    files=[
+        ('files', file1),
+        ('files', file2)
+    ]
 )
+
+if response.status_code == 200:
+    result = response.json()
+    print("Application submitted successfully!")
+    print(f"Application ID: {result['application_id']}")
+    print(f"Report URL: {result['report_url']}")
+    print(f"Relevant Policies: {', '.join(result['relevant_policies'])}")
+    if result['issues_found']:
+        print(f"Issues found: {len(result['issues_found'])}")
+    else:
+        print("No issues found!")
+else:
+    print(f"Error: {response.json()['error']}")
