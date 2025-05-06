@@ -1,30 +1,20 @@
-# 🛠️ Local Gov Hack: Tools
+# 🛠️ Local Gov Planning: Tools
 
-## 🤖 Large Language Model Access
+## 🤖 Large Language Models
+
+Large Language Models (LLMs) can provide valuable capabilities for local government planning applications. Some common providers include:
 
 | Provider | Links | Notes |
 |------|-------|-------|
-| **Azure OpenAI** | • [Azure OpenAI Documentation](https://learn.microsoft.com/en-us/azure/ai-services/openai/)<br>• [Example Code](../examples/llms/azure_openai_demo.py)| Endpoint and Key will be shared during the event |
-| **AWS - Free account with Bedrock** | • [Link to access a free AWS account for the hack](https://catalog.us-east-1.prod.workshops.aws/join)<br>• [Setup guide, including how to access LLMs through Bedrock](https://catalog.workshops.aws/genai-hackathon/en-US)<br>• [Example Code](../examples/llms/aws_bedrock_demo.py) | Provides access to:<br>• All Amazon Models<br>• Anthropic Claude 3.7 Sonnet<br>• Anthropic Claude 3.5 Haiku<br>• Meta Llama 3.2 11B Vision & Instruct<br>• Mistral 7B Instruct<br>• Stable Diffusion 3 Large |
-| **Anthropic - $20 of API credits** | • [Link to request $20 of Anthropic API credits](https://docs.google.com/forms/d/e/1FAIpQLScQwvMlBqs8W-knMbYdXoRxUVDk_fGUTV9fIi54_jUsK_bGIw/viewform) | Must be requested by COP 27th April |
+| **Azure OpenAI** | • [Azure OpenAI Documentation](https://learn.microsoft.com/en-us/azure/ai-services/openai/) | Requires Azure subscription and access approval |
+| **AWS Bedrock** | • [AWS Bedrock Documentation](https://docs.aws.amazon.com/bedrock/) | Provides access to multiple models through AWS |
+| **Anthropic Claude** | • [Anthropic API Documentation](https://docs.anthropic.com/en/api/getting-started) | Offers various Claude models through API access |
 
+> **Note:** The LLM examples and access instructions in this repository were specific to a past hackathon event. You will need to set up your own access credentials to use these services.
 
 ## ✨ Large Language Model Capabilities
 
-**🧪 AI Expertise Available!**
-
-During the hackathon, AI experts from the [Incubator for Artificial Intelligence (i.AI)](https://ai.gov.uk/) will be present to provide guidance and support. These specialists can help you:
-
-- Understand what's possible with current AI technologies
-- Identify the most suitable models for your specific use case
-- Troubleshoot technical issues with model implementation
-- Advise on prompt engineering and fine-tuning
-- Explain how to effectively combine AI with other tools and datasets
-- Share best practices for responsible AI use in public sector applications
-
-Don't hesitate to approach these experts throughout the event - they're here to help you maximize the potential of AI in your solutions!
-
-As a quick start, here's a high level overview of what Large Language Models (LLMs) can do:
+Large Language Models (LLMs) offer a variety of capabilities that can enhance planning applications:
 
 | Capability | Description | Potential Planning Applications |
 |------------|-------------|--------------------------------|
@@ -33,7 +23,7 @@ As a quick start, here's a high level overview of what Large Language Models (LL
 | **✅ Document Verification & Assessment** | LLMs can cross-reference information across multiple sources to verify accuracy and consistency, and evaluate documents against predefined criteria, standards, or checklists to ensure compliance | • Validating planning applications against local policies<br>• Checking infrastructure capacity reports<br>• Ensuring housing forecasts align with demographic data<br>• Screening planning applications for completeness<br>• Assessing development proposals against sustainability criteria<br>• Checking housing designs against accessibility standards |
 | **💬 Document Chat & Search** | LLMs can allow natural language conversations with document collections, enabling intuitive information retrieval | • Creating searchable planning policy assistants<br>• Enabling planners to query historical application databases<br>• Helping citizens navigate complex planning documentation |
 | **📊 Consultation Analysis** | LLMs can process large volumes of public consultation responses to identify themes, sentiment, and key issues as well as redacting sensitive information | • Summarizing feedback from community engagement events<br>• Identifying recurring concerns across multiple consultations<br>• Categorizing stakeholder priorities for planning decisions<br>• Tracking sentiment changes over multiple consultation phases |
-| **🔄 Multimodal Reasoning** | Advanced models like GPT-4o and Claude 3 can go beyond just across text to use images and data to solve complex problems | • Balancing housing needs with infrastructure constraints<br>• Visualizing planning scenarios for public engagement<br>• Predicting impacts of development on local communities |
+| **🔄 Multimodal Reasoning** | Advanced models can go beyond just across text to use images and data to solve complex problems | • Balancing housing needs with infrastructure constraints<br>• Visualizing planning scenarios for public engagement<br>• Predicting impacts of development on local communities |
 | **👁️ Visual Understanding** | Modern LLMs like Claude and Gemini can analyze images, identify objects, and understand spatial relationships such as where items are within images | • Automated review of planning application drawings<br>• Identifying non-compliant elements in building designs<br>• Analyzing satellite imagery for land use changes |
 | **💻 Code Generation** | LLMs can write code to automate workflows, analyze data, and create interactive tools | • Building custom planning process automation tools<br>• Creating data pipelines for housing demand forecasting<br>• Developing interactive public engagement platforms |
 | **🧩 Reasoning & Planning** | LLMs can break down complex problems into logical steps, identify dependencies, and create structured plans | • Developing phased implementation strategies for housing projects<br>• Identifying critical path dependencies in infrastructure planning<br>• Creating decision trees for planning application assessment |
