@@ -8,7 +8,7 @@
 
 ### 🌟 Key Datasets
 
-#### [Digital Planning](https://www.planning.data.gov.uk/)
+#### [Planning Data](https://www.planning.data.gov.uk/)
 
 Comprehensive API with land and housing datasets across England. This open platform collects and standardizes planning data from various sources, allowing anyone to view, build services, or analyze the data. Making this data more accessible aims to improve planning decisions, reduce delays, enable new digital services, and enhance community-development relationships.
 
@@ -17,13 +17,18 @@ London-specific planning application data with detailed insights into residentia
 
 For the hackathon, we would love to see analyses on borough housing trends, construction progress tracking, approval-to-completion timelines, future delivery predictions, application success rates, stalled development identification, and historical pattern insights.
 
+#### [Automatic Knowledge](https://automaticknowledge.co.uk/resources/)
+
+A collection of open geospatial and local authority data that researchers, analysts, journalists and others may find useful. All the files listed can be used, with attribution, in commercial work and you’re free to adapt the data as you wish. They have tried to add value to the original data by including more information in the files and/or by combining small parts into a larger whole. Have fun!
+
+
 ---
 
 
 ### 🏗️ Planning & Land Use
 | Resource | Links | Description |
 |----------|-------|-------------|
-| **Digital Planning** | [Website](https://www.planning.data.gov.uk/)<br>[API Instructions](https://www.planning.data.gov.uk/docs#api%20)<br>[Example](https://github.com/i-dot-ai/local-gov-hack/blob/main/dataset_examples/open_digital_planning.py)<br>[Datasets](https://www.planning.data.gov.uk/dataset/) | An open API provided by the MHCLG Digital Planning team, with a huge range of land and housing related datasets |
+| **Planning Data** | [Website](https://www.planning.data.gov.uk/)<br>[Quickstart](https://digital-land.github.io/quickstart/)<br>[API Instructions](https://www.planning.data.gov.uk/docs#api%20)<br>[Example](https://github.com/i-dot-ai/local-gov-hack/blob/main/dataset_examples/open_digital_planning.py)<br>[Datasets](https://www.planning.data.gov.uk/dataset/)| An open API provided by the MHCLG Digital Planning team, with a huge range of land and housing related datasets |
 | **Planning London Datahub** | [Website](https://www.london.gov.uk/programmes-strategies/planning/digital-planning/planning-london-datahub) | Includes LPA planning information, residential unit statistics, decision data |
 | **PlanIt** | [Website](https://www.planit.org.uk/)<br>[API Instructions](https://www.planit.org.uk/api/)<br>[Datasets](https://www.planit.org.uk/dictionary/) | Community built dataset of planning applications in the UK, scraped from local authority websites |
 | **National Infrastructure Projects** | [Website](https://national-infrastructure-consenting.planninginspectorate.gov.uk/project-search)<br>[Datasets](https://national-infrastructure-consenting.planninginspectorate.gov.uk/register-of-applications) | Planning Inspectorate register for nationally significant infrastructure projects |

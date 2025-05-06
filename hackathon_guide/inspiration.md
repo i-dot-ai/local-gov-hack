@@ -11,17 +11,18 @@ The UK's emerging **PlanTech** stack already shows how open data + AI can upgrad
 | Resource | Link | Why it matters |
 |---|---|---|
 | **ONS ML House‑Price & Demand Prototype (XGBoost)** | [ONS Machine Learning House Price Model](https://www.ons.gov.uk/news/statementsandletters/machinelearninghousepricemodel) | Shows feature‑engineering & evaluation pipeline on UK transaction data—perfect template for LPA‑level demand models |
-| **Predicting UK Housing Prices using ML (2023)** | [Springer Link Article](https://link.springer.com/article/10.1007/s00521-023-08567-w) | Benchmarks multiple regressors & discusses overfitting with UK economic covariates ([iwaponline.com](https://iwaponline.com/wpt/article/19/5/1586/101780/Machine-learning-for-water-demand-forecasting-Case)) |
+| **Predicting UK Housing Prices using ML** | [Article](https://www.researchgate.net/publication/379621960_Predicting_UK_Housing_Price_using_Machine_Learning_Algorithms/fulltext/661155082034097c54f9dbce/Predicting-UK-Housing-Price-using-Machine-Learning-Algorithms.pdf) | Benchmarks multiple regressors & discusses overfitting with UK economic covariates |
 | **Street2Vec change‑detection (London, 15 M images)** | [arXiv Paper](https://arxiv.org/abs/2309.11354) | Self‑supervised model spots new housing supply from Street View—idea: plug into planning‑photo archives ([arxiv.org](https://arxiv.org/abs/2309.11354)) |
 | **ONS Floor‑Area Admin Pilot** | [ONS Geography Methodology](https://www.ons.gov.uk/methodology/geography) | Adds missing floor‑area attributes that improve dwelling‑stock estimates |
 | **Short‑Term UK Water‑Demand ML Forecast (2024)** | [ResearchGate Publication](https://www.researchgate.net/publication/350559345_Short-Term_Forecasting_of_Household_Water_Demand_in_the_UK_Using_an_Interpretable_Machine_Learning_Approach) | Example of interpretable tree model that links demand to infrastructure capacity ([ResearchGate](https://www.researchgate.net/publication/350559345_Short-Term_Forecasting_of_Household_Water_Demand_in_the_UK_Using_an_Interpretable_Machine_Learning_Approach)) |
+| **Parliamentary POST note – Housing: demographic and environmental trends** | [Parliament Research Briefing](https://post.parliament.uk/housing-demographic-and-environmental-trends/) | How can the housing be adapted to an ageing population and to meet the challenge of climate change? |
 
 ### ⚙️ Planning‑Process Automation
 | Resource | Link | Why it matters |
 |---|---|---|
 | **Extract - AI pipeline (DSIT/MHCLG)** | [Extract Project](https://ai.gov.uk/projects/extract/) | OCR + computer‑vision turns PDF plans into JSON in <40 s |
 | **Turing DSG Mask‑RCNN for Planning Drawings** | [Turing Data Study Group](https://www.turing.ac.uk/collaborate-turing/data-study-groups/can-we-automate-uks-planning-system-using-ai) | Open dataset & code identify north arrows, floorplans etc. |
-| **Knight Frank Rules‑Engine Case Study** | [Knight Frank Planning AI](https://www.knightfrank.com/planning-ai-case-study) | Shows feature list for auto‑screening invalid applications |
+| **PlanX Planning Applications** | [PlanX](https://opendigitalplanning.org/planx) | Automating processes for submitting planning applications |
 | **PlanTech market‑scan blog** | [Medium Article](https://medium.com/capital-enterprise/plantech-a-new-market-for-digital-planning-products-and-services-885678f9de89) | Maps commercial + open‑source APIs you can mash together ([Medium](https://medium.com/capital-enterprise/plantech-a-new-market-for-digital-planning-products-and-services-885678f9de89)) |
 
 ---
@@ -33,7 +34,7 @@ The UK's emerging **PlanTech** stack already shows how open data + AI can upgrad
 | **Consult** | [Consult Project](https://ai.gov.uk/projects/consult/) | AI-powered tool to analyze and extract themes from public consultation responses |
 | **ThemeFinder** | [GitHub Repository](https://github.com/i-dot-ai/themefinder) | Topic modelling Python package for analyzing survey responses and public consultations with LLM-powered theme identification |
 | **Minute** | [Minute Project](https://ai.gov.uk/projects/minute/) | AI tool for automatically creating summaries of meeting minutes and highlighting action items |
-| **DLUHC PropTech Innovation Fund (Prospectus + Case Studies)** | [PropTech Innovation Fund PDF](https://media.localdigital.gov.uk/uploads/2023/10/16171343/PropTech-Innovation-Fund-Prospectus-Round-4-.pdf) | User‑research findings, open schemas & funding for LPA pilots ([Local Digital](https://media.localdigital.gov.uk/uploads/2023/10/16171343/PropTech-Innovation-Fund-Prospectus-Round-4-.pdf)) |
+| **MHCLG PropTech Innovation Fund (Prospectus + Case Studies)** | [PropTech Innovation Fund PDF](https://media.localdigital.gov.uk/uploads/2023/10/16171343/PropTech-Innovation-Fund-Prospectus-Round-4-.pdf) | User‑research findings, open schemas & funding for LPA pilots ([Local Digital](https://media.localdigital.gov.uk/uploads/2023/10/16171343/PropTech-Innovation-Fund-Prospectus-Round-4-.pdf)) |
 | **Digital Planning Programme overview** | [Local Digital Planning Overview](https://www.localdigital.gov.uk/digital-planning/digital-planning-programme-overview/) | Summaries of real council pilots—"what worked / what bombed" insights ([Local Digital](https://www.localdigital.gov.uk/digital-planning/digital-planning-programme-overview/)) |
 
 ---
@@ -42,9 +43,8 @@ The UK's emerging **PlanTech** stack already shows how open data + AI can upgrad
 | Resource | Link | Why it matters |
 |---|---|---|
 | **National Infrastructure Commission Progress Review 2024** | [NIC Assessment](https://nic.org.uk/studies-reports/national-infrastructure-assessment/) | Latest capacity gaps & target metrics across water, energy, digital |
-| **Parliamentary POST note – Digitalisation of UK Infrastructure** | [Parliament Research Briefing](https://post.parliament.uk/research-briefings/post-pn-0686/) | Concise dataset & standards roundup (IFC, BIM, D‑COM) |
-| **Anglian Water Safe Smart Systems Digital Twin** | [Anglian Water Innovation](https://www.anglianwater.co.uk/about-us/innovation/) | County‑scale twin streaming pipe‑flow data; open architecture diagram |
-| **UKRI Environmental‑Science Digital‑Twin Programme** | [UKRI Digital Twins](https://www.ukri.org/what-we-offer/browse-our-areas-of-investment-and-support/environmental-digital-twins/) | Grants + open Python tooling for scenario testing floods/droughts ([GitHub](https://github.com/ATFutures/who)) |
+| **Anglian Water Safe Smart Systems Digital Twin** | [Anglian Water Innovation](https://www.iotinsider.com/industries/industrial/lessons-from-anglian-waters-large-scale-digital-twin-deployment) | County‑scale twin streaming pipe‑flow data; open architecture diagram |
+| **UKRI Environmental‑Science Digital‑Twin Programme** | [UKRI Digital Twins](https://www.ukri.org/news/digital-twin-projects-to-transform-environmental-science/) | Grants + open Python tooling for scenario testing floods/droughts |
 
 ---
 
