@@ -1,3 +1,10 @@
+"""
+⚠️ DEPRECATED EXAMPLE ⚠️
+This example was created for a specific hackathon event and uses environment variables 
+that would have been provided during that event. To use this example today, you would need 
+to replace these with your own Azure OpenAI credentials.
+"""
+
 import os
 from openai import AzureOpenAI
 

@@ -1,5 +1,8 @@
 # ☁️ Accessing LLMs with AWS Bedrock
 
+> **⚠️ DEPRECATED INFORMATION ⚠️**  
+> The following instructions were specific to a past hackathon event and are no longer valid. The AWS accounts and access codes mentioned were temporary and have been deactivated. This document is preserved for reference only.
+
 As part of the Local Government Hack you have been provided with a free AWS account. This will last for the duration of the hack and will be automatically deleted afterwards. You can use this AWS account to access LLMs and, if you want, other standard AWS features such as SageMaker, S3, Lambda, API Gateway etc for the duration of the hack.
 
 The **aim** of this tutorial is to run Claude 3.7 Sonnet locally with AWS Bedrock, in around 15 mins.
