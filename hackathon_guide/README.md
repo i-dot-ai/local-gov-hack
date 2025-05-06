@@ -1,5 +1,7 @@
 # 📚 Local Gov Hack - Information Resources
 
+> ⚠️ **IMPORTANT:** The hackathon has now passed. Access to the Large Language Models (LLMs) and AWS account provided as part of this event is no longer available.
+
 This folder contains essential information for participants in the Local Gov Hack event.
 
 ## 📁 Contents

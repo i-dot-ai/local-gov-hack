@@ -117,6 +117,8 @@ If you have any concerns during the event please speak with the organisers immed
 
 ## 🚀 Getting Started
 
+> ⚠️ **IMPORTANT:** The hackathon has now passed. Access to the Large Language Models (LLMs) and AWS account provided as part of this event is no longer available.
+
 To help you prepare for the hackathon, we've put together comprehensive guides and examples:
 
 ### 📚 Hackathon Guide

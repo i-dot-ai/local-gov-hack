@@ -1,5 +1,7 @@
 # 🛠️ Local Gov Hack: Tools
 
+> ⚠️ **IMPORTANT:** The hackathon has now passed. Access to the Large Language Models (LLMs) and AWS account provided as part of this event is no longer available.
+
 ## 🤖 Large Language Model Access
 
 | Provider | Links | Notes |
